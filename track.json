@@ -1,0 +1,18 @@
+{
+    "duration-secs": 100,
+    "name": "four on the floor 1",
+    "volume" : 10,
+    "tempo": 165,
+    "instruments": {
+        "bass": [
+            0,4,8,12
+        ],
+        "hitop": [
+            2,6,10,14
+        ],
+        "snare": [
+            1,4,5,12,13,15
+        ]
+    }
+}
+
