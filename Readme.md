@@ -1,3 +1,4 @@
+* go get github.com/DATA-DOG/godog/colors
 * go test
 * go run drumbeats.go track.json
 
